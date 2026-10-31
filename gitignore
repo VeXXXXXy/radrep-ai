@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+patient-data/
+dicom/
+*.dcm
+*.nii
+*.nii.gz
